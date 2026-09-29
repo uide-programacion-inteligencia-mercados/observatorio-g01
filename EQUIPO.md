@@ -7,5 +7,5 @@ Cada integrante completa **su propia fila** con un commit propio: cambia los ___
 | Henry Cupacán | @___ | https://github.com/___ | ___ |
 | Nayeli Lima | @___ | https://github.com/___ | ___ |
 | Mateo Murgueitio | @Mateo030434 | https://github.com/Mateo030434 | SI |
-| Sara Sánchez | @___ | https://github.com/___ | ___ |
+| Sara Sánchez | @saraemilia2604 | https://github.com/saraemilia2604 | Me comprometo a trabajar en equpo y colaborar con mis compañeros|
 | Zara Tigua (líder) | @___ | https://github.com/___ | ___ |
