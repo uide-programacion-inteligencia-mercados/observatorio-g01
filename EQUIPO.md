@@ -7,5 +7,5 @@ Cada integrante completa **su propia fila** con un commit propio: cambia los ___
 | Henry Cupacán | @gabrielc02 | https://github.com/GabrielC022/GitHub-Account.git | Me comprometo a hacer cada una de mis partes del trabajo |
 | Nayeli Lima | @Naye5656 | https://github.com/Naye5656 | Cumplir con lo que me corresponde a tiempo  |
 | Mateo Murgueitio | @Mateo030434 | https://github.com/Mateo030434 | SI |
-| Sara Sánchez | @saraemilia2604 | https://github.com/saraemilia2604 | Me comprometo a trabajar en equpo y colaborar con mis compañeros|
-| Zara Tigua (líder) | @___ | https://github.com/___ | ___ |
+| Sara Sánchez | @saraemilia2604 | https://github.com/saraemilia2604 | Me comprometo a trabajar en equipo y colaborar con mis compañeros|
+| Zara Tigua (líder) | @zaratigua | https://github.com/zaratigua | Me comprometo a aportar en los trabajos de manera activa |
