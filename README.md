@@ -4,13 +4,13 @@
 **Integrantes:** ver [EQUIPO.md](EQUIPO.md)
 
 ## La pregunta que responde nuestro observatorio
-___  (el líder la completa: debe tener quién, qué se mide y contra qué se compara)
+___  (Se analiza la canasta de productos de Tia, comparando con la fuente de datos de el Banco Mundial para tener referencias de porcentajes de inflación, se compara contra los precios cambiantes y ,la inflación existente, el robot saca los precios que estan en la página y comparamos si cambia a lo largo de el tiempo)
 
 ## De dónde viene cada dato
-Se completa en la tarea «Dos fuentes entrando».
+Cada dato proviene de la ficha de producto, sale de la página web de Tía, como fuente también tenemos el Banco Mundial
 
 ## Declaración de uso de IA
-___  (qué herramienta, para qué y qué verificamos nosotros)
+___  (la utilizamos para la comparación de datos, claude.)
 
 ---
 Programación Aplicada a la Inteligencia de Mercados · UIDE · 2026 · Docente: Juan Carlos Correa
