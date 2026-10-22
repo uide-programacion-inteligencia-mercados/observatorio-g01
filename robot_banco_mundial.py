@@ -28,8 +28,8 @@ INDICADORES = {"FP.CPI.TOTL.ZG": "Inflación anual (%)", "NE.CON.PRVT.PC.KD.ZG":
 RANGOS = {"FP.CPI.TOTL.ZG": (-5.0, 30.0), "NE.CON.PRVT.PC.KD.ZG": (-20.0, 20.0)}              # valor mínimo y máximo CREÍBLE de cada indicador
 MIN_FILAS = 10                  # menos filas que esto = llegó incompleto
 MAX_ANIOS_SIN_DATO = 4         # si el último año tiene más antigüedad, el dato está viejo
-REINTENTOS = 5                # cuántas veces más intenta si la fuente no contesta
-ESPERA_INICIAL = 2                # segundos de la primera espera; luego se duplica
+REINTENTOS = 2                # cuántas veces más intenta si la fuente no contesta
+ESPERA_INICIAL = 6                # segundos de la primera espera; luego se duplica
 
 DESDE, HASTA = 2015, 2025
 SIMULAR_FALLA = os.environ.get("SIMULAR_FALLA", "false").lower() == "true"

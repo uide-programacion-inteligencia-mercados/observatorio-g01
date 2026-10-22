@@ -11,17 +11,17 @@ La insignia de arriba dice si la última corrida del robot terminó bien (verde)
 | Consumo de los hogares por persona, crecimiento (%) | -20.0 | 20.0 |
 
 - Filas mínimas: 10 · Antigüedad máxima del último dato: 4 años
-- Reintentos: 5, con espera inicial de 2 s que se duplica en cada intento
-- Reloj: `15 11 * * *`
+- Reintentos: 2, con espera inicial de 6 s que se duplica en cada intento
+- Reloj: `0 12 * * 1-5`
 
 ## Qué es una falla para nosotros
-Consideramos que existe una falla cuando los indicadores presentan valores fuera de los rangos creíbles definidos o cuando el robot no logra obtener datos confiables. Estos límites permiten detectar errores sin confundirlos con variaciones económicas reales.
+Si se registran filas en 0 es una falla debido a que no indica una advertencia, se podría tomar como productos inexistentes y afecta el proceso de análisis
 
 ## Nuestro plan B
-Si el Banco Mundial no responde, el robot vuelve a intentarlo y espera un tiempo entre cada intento. Si continúa sin funcionar, registra el error y genera una alerta, evitando presentar datos nuevos como si fueran confiables.
+Bajar manualmente la información, medida que demanda tiempo
 
 ## Quién atiende la alerta
-La persona responsable de revisar el repositorio del equipo atenderá las alertas y comprobará primero el registro de la corrida y la bitácora para identificar el error. Después verificará si el problema está en la conexión, los datos o las reglas de calidad.
+Un elemento del equipo designado
 
 ## Qué vigilamos cada lunes
-Cada lunes revisaremos el archivo de salud para comprobar que las corridas terminen correctamente, que no existan errores repetidos y que los datos se actualicen. Si encontramos una falla o varios días sin información, revisaremos la bitácora y tomaremos medidas para solucionarla.
+Que cada fila sea rellenada y no venga información fantasma o vacía
