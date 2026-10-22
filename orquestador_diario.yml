@@ -10,8 +10,9 @@ on:
     - cron: "0 12 * * 1-5"      # reloj del equipo: minuto 0, hora 12 UTC
   workflow_dispatch:         # botón Run workflow en la pestaña Actions
     inputs:
-      simular_falla:
-        description: "Simulacro: provocar una falla para probar la alerta"
+      simulacros:
+        description: "Activar simulacros"
+        required: false
         type: boolean
         default: false
 
