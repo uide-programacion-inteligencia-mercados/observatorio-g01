@@ -1,0 +1,4 @@
+{"momento_utc": "2026-10-22T04:00:43+00:00", "corrida": "39719948311", "equipo": "g01", "nivel": "INFO", "evento": "inicio de la corrida", "simulacro": false}
+{"momento_utc": "2026-10-22T04:00:43+00:00", "corrida": "39719948311", "equipo": "g01", "nivel": "INFO", "evento": "FP.CPI.TOTL.ZG: recibido"}
+{"momento_utc": "2026-10-22T04:00:43+00:00", "corrida": "39719948311", "equipo": "g01", "nivel": "INFO", "evento": "NE.CON.PRVT.PC.KD.ZG: recibido"}
+{"momento_utc": "2026-10-22T04:00:43+00:00", "corrida": "39719948311", "equipo": "g01", "nivel": "INFO", "evento": "datos aprobados y guardados", "filas": 22, "archivo": "data/indicadores_g01.csv"}
