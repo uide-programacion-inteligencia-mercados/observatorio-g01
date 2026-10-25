@@ -30,3 +30,8 @@
 {"momento_utc": "2026-10-24T15:34:30+00:00", "corrida": "40107579795", "equipo": "g01", "nivel": "INFO", "evento": "FP.CPI.TOTL.ZG: recibido"}
 {"momento_utc": "2026-10-24T15:34:30+00:00", "corrida": "40107579795", "equipo": "g01", "nivel": "INFO", "evento": "NE.CON.PRVT.PC.KD.ZG: recibido"}
 {"momento_utc": "2026-10-24T15:34:30+00:00", "corrida": "40107579795", "equipo": "g01", "nivel": "INFO", "evento": "datos aprobados y guardados", "filas": 22, "archivo": "data/indicadores_g01.csv"}
+{"momento_utc": "2026-10-25T15:44:31+00:00", "corrida": "40208355318", "equipo": "g01", "nivel": "INFO", "evento": "inicio de la corrida", "simulacro": false}
+{"momento_utc": "2026-10-25T15:45:01+00:00", "corrida": "40208355318", "equipo": "g01", "nivel": "WARNING", "evento": "FP.CPI.TOTL.ZG: intento 1 falló; espero 6 s y reintento", "error": "HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)"}
+{"momento_utc": "2026-10-25T15:45:08+00:00", "corrida": "40208355318", "equipo": "g01", "nivel": "INFO", "evento": "FP.CPI.TOTL.ZG: recibido"}
+{"momento_utc": "2026-10-25T15:45:08+00:00", "corrida": "40208355318", "equipo": "g01", "nivel": "INFO", "evento": "NE.CON.PRVT.PC.KD.ZG: recibido"}
+{"momento_utc": "2026-10-25T15:45:08+00:00", "corrida": "40208355318", "equipo": "g01", "nivel": "INFO", "evento": "datos aprobados y guardados", "filas": 22, "archivo": "data/indicadores_g01.csv"}
