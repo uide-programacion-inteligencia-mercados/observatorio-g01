@@ -52,3 +52,8 @@
 {"momento_utc": "2026-10-29T18:11:47+00:00", "corrida": "40928380604", "equipo": "g01", "nivel": "WARNING", "evento": "NE.CON.PRVT.PC.KD.ZG: intento 1 falló; espero 6 s y reintento", "error": "HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)"}
 {"momento_utc": "2026-10-29T18:11:54+00:00", "corrida": "40928380604", "equipo": "g01", "nivel": "INFO", "evento": "NE.CON.PRVT.PC.KD.ZG: recibido"}
 {"momento_utc": "2026-10-29T18:11:54+00:00", "corrida": "40928380604", "equipo": "g01", "nivel": "INFO", "evento": "datos aprobados y guardados", "filas": 22, "archivo": "data/indicadores_g01.csv"}
+{"momento_utc": "2026-10-29T22:06:03+00:00", "corrida": "40963145931", "equipo": "g01", "nivel": "INFO", "evento": "inicio de la corrida", "simulacro": false}
+{"momento_utc": "2026-10-29T22:06:03+00:00", "corrida": "40963145931", "equipo": "g01", "nivel": "INFO", "evento": "FP.CPI.TOTL.ZG: recibido"}
+{"momento_utc": "2026-10-29T22:06:03+00:00", "corrida": "40963145931", "equipo": "g01", "nivel": "INFO", "evento": "NE.CON.PRVT.PC.KD.ZG: recibido"}
+{"momento_utc": "2026-10-29T22:06:03+00:00", "corrida": "40963145931", "equipo": "g01", "nivel": "INFO", "evento": "datos aprobados y guardados", "filas": 22, "archivo": "data/indicadores_g01.csv"}
+{"momento_utc": "2026-10-29T22:06:05+00:00", "corrida": "40963145931", "equipo": "g01", "nivel": "INFO", "evento": "informe PDF generado", "archivo": "reports/informe_g01.pdf", "paginas": 2, "kb": 69}
