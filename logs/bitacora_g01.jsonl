@@ -57,3 +57,8 @@
 {"momento_utc": "2026-10-29T22:06:03+00:00", "corrida": "40963145931", "equipo": "g01", "nivel": "INFO", "evento": "NE.CON.PRVT.PC.KD.ZG: recibido"}
 {"momento_utc": "2026-10-29T22:06:03+00:00", "corrida": "40963145931", "equipo": "g01", "nivel": "INFO", "evento": "datos aprobados y guardados", "filas": 22, "archivo": "data/indicadores_g01.csv"}
 {"momento_utc": "2026-10-29T22:06:05+00:00", "corrida": "40963145931", "equipo": "g01", "nivel": "INFO", "evento": "informe PDF generado", "archivo": "reports/informe_g01.pdf", "paginas": 2, "kb": 69}
+{"momento_utc": "2026-10-30T17:49:13+00:00", "corrida": "41101696222", "equipo": "g01", "nivel": "INFO", "evento": "inicio de la corrida", "simulacro": false}
+{"momento_utc": "2026-10-30T17:49:13+00:00", "corrida": "41101696222", "equipo": "g01", "nivel": "INFO", "evento": "FP.CPI.TOTL.ZG: recibido"}
+{"momento_utc": "2026-10-30T17:49:13+00:00", "corrida": "41101696222", "equipo": "g01", "nivel": "INFO", "evento": "NE.CON.PRVT.PC.KD.ZG: recibido"}
+{"momento_utc": "2026-10-30T17:49:13+00:00", "corrida": "41101696222", "equipo": "g01", "nivel": "INFO", "evento": "datos aprobados y guardados", "filas": 22, "archivo": "data/indicadores_g01.csv"}
+{"momento_utc": "2026-10-30T17:49:15+00:00", "corrida": "41101696222", "equipo": "g01", "nivel": "INFO", "evento": "informe PDF generado", "archivo": "reports/informe_g01.pdf", "paginas": 2, "kb": 69}
