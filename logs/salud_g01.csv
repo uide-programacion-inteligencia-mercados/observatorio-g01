@@ -28,3 +28,4 @@ fecha_utc,corrida,estado,motivo,filas,segundos
 2026-11-05T22:47:20+00:00,42124355934,verde,todo bien,22,3.0
 2026-11-05T22:48:28+00:00,42124493108,rojo,la fuente falló: FP.CPI.TOTL.ZG: no contestó después de 4 intentos (SIMULACRO: el Banco Mundial no contesta (falla provocada a propósito)),0,14.0
 2026-11-05T22:49:12+00:00,42124625960,verde,todo bien,22,2.0
+2026-11-05T23:26:22+00:00,42129130946,verde,todo bien,22,2.3
