@@ -1,4 +1,4 @@
-# Distribución del informe · Equipo GXX
+# Distribución del informe · Equipo G01
 ## 1. ¿A quién le llega el informe y por qué?
 (Cargo o rol de quien decide con este informe, y qué decisión toma con él. Sin nombres de
 personas.)
