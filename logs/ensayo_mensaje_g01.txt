@@ -1,0 +1,7 @@
+ASUNTO: [Observatorio G01] Informe del 2026-11-05 · robot VERDE
+
+La inflación en Ecuador bajó a 0,71% en 2025 y el consumo de los hogares volvió a crecer: el entorno favorece vender más sin presión de precios.
+
+Estado del robot: VERDE
+Informe completo (PDF): https://github.com/uide-programacion-inteligencia-mercados/observatorio-g01/blob/main/reports/informe_g01.pdf
+Fuente y fecha de los datos: dentro del informe, en la sección «Calidad de los datos».
