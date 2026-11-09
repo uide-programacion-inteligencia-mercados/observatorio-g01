@@ -2,3 +2,4 @@
 {"momento": "2026-11-05T23:34:53Z", "fecha": "2026-11-05", "equipo": "g01", "canal": "slack", "estado": "enviado", "modo": "real", "intentos": 1, "detalle": "ok"}
 {"momento": "2026-11-05T23:37:02Z", "fecha": "2026-11-05", "equipo": "g01", "canal": "slack", "estado": "omitido", "modo": "real", "intentos": 0, "detalle": "ya enviado hoy"}
 {"momento": "2026-11-05T23:41:37Z", "fecha": "2026-11-05", "equipo": "g01", "canal": "slack", "estado": "omitido", "modo": "real", "intentos": 0, "detalle": "ya enviado hoy"}
+{"momento": "2026-11-09T22:14:40Z", "fecha": "2026-11-09", "equipo": "g01", "canal": "slack", "estado": "enviado", "modo": "real", "intentos": 1, "detalle": "ok"}
