@@ -37,3 +37,4 @@ fecha_utc,corrida,estado,motivo,filas,segundos
 2026-11-08T17:23:27+00:00,42504689416,verde,todo bien,22,7.3
 2026-11-08T17:45:28+00:00,42506513459,verde,todo bien,22,1.6
 2026-11-09T21:45:55+00:00,42705389923,amarillo,"funcionó, pero tuvo que reintentar",22,46.4
+2026-11-09T22:02:24+00:00,42708057133,verde,todo bien,22,2.5
