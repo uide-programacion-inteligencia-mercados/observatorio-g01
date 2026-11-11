@@ -40,3 +40,4 @@ fecha_utc,corrida,estado,motivo,filas,segundos
 2026-11-09T22:02:24+00:00,42708057133,verde,todo bien,22,2.5
 2026-11-10T19:05:00+00:00,42881217932,rojo,"la fuente falló: FP.CPI.TOTL.ZG: no contestó después de 4 intentos (HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30))",0,134.2
 2026-11-10T19:27:13+00:00,42885323397,verde,todo bien,22,2.7
+2026-11-11T18:59:58+00:00,43082936100,verde,todo bien,22,4.5
