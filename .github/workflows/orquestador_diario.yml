@@ -5,7 +5,7 @@
 # Se conservan: casilla de simulacro, guardado SIEMPRE de la bitácora y la salud,
 # y la alerta (abre un Issue si el robot falla y lo cierra cuando se recupera).
 # ============================================================================
-name: Orquestador diario G01
+name: Orquestador diario G01 - JC
 
 on:
   schedule:
