@@ -1,8 +1,8 @@
 # Escribe tu texto al final de cada línea, justo después de los dos puntos (:).
 # Haz clic a la derecha de TITULO: (en esa misma línea) y escribe. No borres nada.
 # Cada texto va en una sola línea. Las líneas que empiezan con # no se leen.
-TITULO:
+TITULO: Observatorio El bolsillo
 SUBTITULO: El robot busca, limpia y analiza los datos. Esta página los muestra con filtros.
-FUENTE:
-PREGUNTA:
-LECTURA:
+FUENTE: Banco Mundial, capturado el 25 de noviembre de 2026
+PREGUNTA:¿Cómo cambió la inflación en Ecuador en 2026 y como influye el consumo en los hogares?
+LECTURA: La inflación en Ecuador bajó en Ecuador a 0,71% en 2025 y el consumo de los hogares volvió a crecer: el entorno favorece vender más sin presión de precios.
